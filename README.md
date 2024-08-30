@@ -3,10 +3,11 @@ A study assist app for high school students.
 Made with Java and XML in Sketchware Pro in 2020 by me in summer vacation :-).
 
 ## Features
-- NCERT Books till class 10
+- NCERT Books from 1st to class 10th
 - Basic education tools
 - Online Question Search
 - Translate English to Hindi and vice-verse
+
 
 
 <img src="https://github.com/user-attachments/assets/45cb9958-a184-4d6c-b0e4-6d98012369ec" width="300" alt="Noteswell">
@@ -16,3 +17,7 @@ Made with Java and XML in Sketchware Pro in 2020 by me in summer vacation :-).
 <img src="https://github.com/user-attachments/assets/b83e08b6-944c-4004-93fb-49d6c00a213a" width="300" alt="About">
 <img src="https://github.com/user-attachments/assets/c821578c-9deb-4250-b8b6-7d3913f9d53f" width="300" alt="Dev Note">
 
+## Update
+- This project is not longer maintained by me.
+- It may contain resources which are not my property, i just collected resources available online.
+- I lost the code back in 2021 so i only have apk to show my work.
