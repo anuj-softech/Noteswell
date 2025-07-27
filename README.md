@@ -1,6 +1,6 @@
 # Noteswell
 A study assist app for high school students.  
-Made with Java and XML in Sketchware Pro in 2020 by me in summer vacation :-).
+Made with Java and XML in 2020 by me in summer vacation :-).
 
 ## Features
 - NCERT Books from 1st to class 10th
