@@ -20,4 +20,3 @@ Made with Java and XML in 2020 by me in summer vacation :-).
 ## Update
 - This project is not longer maintained by me.
 - It may contain resources which are not my property, i just collected resources available online.
-- I lost the code back in 2021 so i only have apk to show my work.
